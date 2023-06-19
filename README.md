@@ -3,6 +3,7 @@
 Ideia aproveitada da
 https://github.com/Larissakich/dark_light_form
 
+alterada fonte e futuramente mais alterações para theme Star  Wars
 https://jclaudiomelo.github.io/LoginStarWarsTheme/
 
 ![Screenshot_3](https://github.com/jclaudiomelo/LoginStarWarsTheme/assets/102559753/096ff96f-74ab-4797-a3aa-eb160e021b09)
